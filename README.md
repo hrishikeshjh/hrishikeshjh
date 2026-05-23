@@ -9,7 +9,6 @@ For collaborations, startup ideas, or helping me understand why the code worked 
 -  **I’m looking to collaborate on:** crazy ideas that sound impossible at first  
 -  **I’m looking for help with:** bugs that magically disappear in front of seniors  
 -  **Ask me about:** Python, AI, Robotics, Web Dev, or how to fix errors by staring at them  
--  **How to reach me:** hrishikeshjhawork@gmail.com  
 -  **Pronouns:** He/Him  
 -  **Fun fact:** my side projects have a higher survival rate than my sleep schedule
 
